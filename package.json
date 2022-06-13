@@ -1,0 +1,24 @@
+{
+  "name": "mz_tbs",
+  "version": "1.0.0",
+  "description": "RPG Maker MZ Plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hawkwhisper/MZ_TBS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hawkwhisper/MZ_TBS/issues"
+  },
+  "homepage": "https://github.com/Hawkwhisper/MZ_TBS#readme",
+  "dependencies": {
+    "pixi.js": "^6.4.2",
+    "typescript": "^4.7.3"
+  }
+}
